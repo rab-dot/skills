@@ -11,6 +11,10 @@ When creating, modifying, or reviewing ANY user-facing component, page, or layou
    - `ux-writing` — every label, button, error message, empty state text
    - `design-to-code` — theme tokens, layout patterns, responsive, skeletons
    - `a11y-implementation` — ARIA, keyboard, focus, screen readers
+   - `visual-effects` — Bento grids, Spotlight cards, Aurora gradients (landing/showcase only)
+   - `scrollytelling-motion` — scroll-driven pinning & text scrub (marketing/promos only)
+   - `frontend-performance` — 120 FPS, Zero-CLS, GPU compositor rules
+   - `seo-social-share` — OpenGraph, Twitter cards, Schema.org JSON-LD
 
 2. **Design decisions are not optional.** Every visual choice must be justified:
    - Why this color? → Palette role (primary/neutral/semantic) from ui-ux-design
